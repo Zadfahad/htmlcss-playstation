@@ -1,0 +1,25 @@
+/* VARIABLES */
+:root {
+    /* colors */
+    --ms_dark-color: rgb(0,0,0);
+    --ms_blue-color: rgb(13,10,253);
+    --ms_red-color: rgb(220,53,69);
+
+
+}
+
+/* COMMON */
+
+html{
+    font-size: 100%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*   <!-- HEADER --> */
+.ms_header-top img{
+    width: 5rem;
+}
+/* <!-- /HEADER --> */
