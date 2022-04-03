@@ -119,3 +119,18 @@ a{
 
 }
 /* /NUOVE-USCITE */
+
+
+/* BANNER-PLUS */
+.ms_banner-plus{
+    background-color: bisque;
+}
+.ms_banner-plus img{
+    width: 50%;
+}
+.ms_btn-plus{
+    color: blue;
+    background-color: aliceblue;
+}
+
+/* /BANNER-PLUS */
