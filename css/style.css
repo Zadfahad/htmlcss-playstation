@@ -20,6 +20,9 @@ body{
 img{
     width: 100%;
 }
+a{
+    text-decoration: none;
+}
 
 
 .ms_container {
@@ -40,15 +43,19 @@ img{
 
  .ms_jumbotron-repeated .ms_btn{
     border-radius: 50px;
-    text-decoration: none;
     color: white;
+    padding: .5em 1em;
  }
  .ms_btn-red{
      background-color: red;
-     padding: .5em 1em;
-     
+}
+.ms_btn-large{
+    border-radius: 50px;
+    color: white;
+    padding: .5em 1em;
+    background-color: blue;
 
- }
+}
     /* /BTN-COMMON */
 
 
@@ -84,3 +91,21 @@ img{
     border-radius: .8rem;
 }
 /* /MINI-JUMBOS */
+
+/* MAIN PLAYSTATION PRODUCTS */
+.ms_products img{
+    width: 50%;
+
+}
+.ms_products{
+    text-align: center;
+}
+/* /MAIN PLAYSTATION PRODUCTS */
+
+/* 2nd Jumbotron */
+
+.ms_2ndjumbotron{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+/* /2nd Jumbotron */
