@@ -18,8 +18,61 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+.ms_container {
+    width: 95%;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.ms_jumbotron-repeated {
+    
+    padding-top: 20rem;
+    
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    color: white;
+}
+ /* BTN-COMMON */
+ .ms_btn{
+    border-radius: 50px;
+    text-decoration: none;
+    color: white;
+ }
+ .ms_btn-red{
+     background-color: red;
+     padding: .5em 1em;
+     
+
+ }
+    /* /BTN-COMMON */
+
+
 /*   <!-- HEADER --> */
 .ms_header-top img{
     width: 5rem;
 }
+/* .ms_header-bottom */
+
+.ms_nav-link img{
+    width: 0.6rem;
+    margin-left: .4rem;
+    vertical-align: middle;
+}
+
+
+.ms_lens-style img{
+    width: 2rem;
+}
+
+
 /* <!-- /HEADER --> */
+
+/* MAIN BANNER */
+.ms_jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+
+}
+
+/* /MAIN BANNER */
