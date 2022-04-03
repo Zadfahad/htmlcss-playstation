@@ -37,7 +37,8 @@ img{
     color: white;
 }
  /* BTN-COMMON */
- .ms_btn{
+
+ .ms_jumbotron-repeated .ms_btn{
     border-radius: 50px;
     text-decoration: none;
     color: white;
