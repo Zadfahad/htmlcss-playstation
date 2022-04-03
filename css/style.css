@@ -17,18 +17,20 @@ html{
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+img{
+    width: 100%;
+}
 
 
 .ms_container {
     width: 95%;
-    max-width: 1500px;
-    margin: 0 auto;
+    max-width: 1470x;
+    margin:  auto;
 }
 
 .ms_jumbotron-repeated {
-    
+    margin-bottom: 2rem;
     padding-top: 20rem;
-    
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: cover;
@@ -76,3 +78,8 @@ body{
 }
 
 /* /MAIN BANNER */
+/* MINI-JUMBOS */
+.mini-jumbos img{
+    border-radius: .8rem;
+}
+/* /MINI-JUMBOS */
