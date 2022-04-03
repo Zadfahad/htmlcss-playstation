@@ -41,13 +41,16 @@ a{
 }
  /* BTN-COMMON */
 
- .ms_jumbotron-repeated .ms_btn{
+ .ms_btn{
     border-radius: 50px;
     color: white;
     padding: .5em 1em;
  }
  .ms_btn-red{
      background-color: red;
+}
+.ms_btn-blue{
+    background-color: blue;
 }
 .ms_btn-large{
     border-radius: 50px;
@@ -109,3 +112,10 @@ a{
 }
 
 /* /2nd Jumbotron */
+
+/* NUOVE-USCITE */
+.ms_nuove-uscite h3, h4{
+    color: white;
+
+}
+/* /NUOVE-USCITE */
