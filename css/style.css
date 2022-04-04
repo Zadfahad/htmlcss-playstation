@@ -134,3 +134,15 @@ a{
 }
 
 /* /BANNER-PLUS */
+
+/* BANNER-NOW */
+
+.ms_banner-now{
+    background-color: darkblue;
+    color: white;
+}
+.ms_banner-now img{
+    width: 50%;
+}
+
+/* /BANNER-NOW */
